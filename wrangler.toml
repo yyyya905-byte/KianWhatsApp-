@@ -1,0 +1,12 @@
+name = "kian-whatsapp-reminder"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+[triggers]
+crons = ["*/15 * * * *"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "kian-whatsapp"
+database_id = "PUT_YOUR_D1_DATABASE_ID_HERE"
+migrations_dir = "migrations"

@@ -1,0 +1,5 @@
+KIAN_BACKEND_SECRET=replace-with-long-random-secret
+WHATSAPP_ACCESS_TOKEN=meta-token-goes-here
+WHATSAPP_PHONE_NUMBER_ID=meta-phone-number-id
+WHATSAPP_TEMPLATE_NAME=kian_debt_reminder
+WHATSAPP_TEMPLATE_LANGUAGE=ar
